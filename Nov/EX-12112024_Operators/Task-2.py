@@ -10,7 +10,7 @@ else:
 
     #output
     #  File
-    #"C:\Users\LENOVO\PycharmProjects\PyATB5xLearning\Nov\EX-12112024_Operators\Lab045_Task-2.py", line
+    #"C:\Users\LENOVO\PycharmProjects\PyATB5xLearning\Nov\EX-12112024_Operators\Task-2.py", line
    # 1, in < module >
   #  print(type(a))
   #  ^
